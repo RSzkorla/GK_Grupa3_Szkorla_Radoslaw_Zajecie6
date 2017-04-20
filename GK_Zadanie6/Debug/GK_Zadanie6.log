@@ -1,0 +1,14 @@
+﻿  GK_Zadanie6.cpp
+d:\programowanie\gk_zadanie6\gk_zadanie6\gk_zadanie6.cpp(377): warning C4838: konwersja z „double” do „const GLfloat” wymaga konwersji zawężającej
+d:\programowanie\gk_zadanie6\gk_zadanie6\gk_zadanie6.cpp(377): warning C4305: "inicjowanie": obcięcie z "double" do "const GLfloat"
+d:\programowanie\gk_zadanie6\gk_zadanie6\gk_zadanie6.cpp(382): warning C4838: konwersja z „double” do „const GLfloat” wymaga konwersji zawężającej
+d:\programowanie\gk_zadanie6\gk_zadanie6\gk_zadanie6.cpp(382): warning C4305: "inicjowanie": obcięcie z "double" do "const GLfloat"
+d:\programowanie\gk_zadanie6\gk_zadanie6\gk_zadanie6.cpp(387): warning C4838: konwersja z „double” do „const GLfloat” wymaga konwersji zawężającej
+d:\programowanie\gk_zadanie6\gk_zadanie6\gk_zadanie6.cpp(387): warning C4305: "inicjowanie": obcięcie z "double" do "const GLfloat"
+d:\programowanie\gk_zadanie6\gk_zadanie6\gk_zadanie6.cpp(389): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+d:\programowanie\gk_zadanie6\gk_zadanie6\gk_zadanie6.cpp(497): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+d:\programowanie\gk_zadanie6\gk_zadanie6\gk_zadanie6.cpp(502): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+d:\programowanie\gk_zadanie6\gk_zadanie6\gk_zadanie6.cpp(563): warning C4244: "+=": konwersja z "double" do "GLfloat", możliwa utrata danych
+d:\programowanie\gk_zadanie6\gk_zadanie6\gk_zadanie6.cpp(565): warning C4244: "+=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  GK_Zadanie6.vcxproj -> D:\Programowanie\GK_Zadanie6\Debug\GK_Zadanie6.exe
+  GK_Zadanie6.vcxproj -> D:\Programowanie\GK_Zadanie6\Debug\GK_Zadanie6.pdb (Partial PDB)
